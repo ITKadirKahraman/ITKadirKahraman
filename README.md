@@ -1,7 +1,6 @@
 # 👋 Hallo, ich bin Kadir Kahraman
-
-🎓 Bachelor of Science in Wirtschaftsinformatik  
-💻 Leidenschaftlicher Entwickler mit Fokus auf Webentwicklung  
+ 
+💻 Leidenschaftlicher Entwickler  
 📍 Münster, Deutschland  
 
 ---
@@ -19,29 +18,34 @@ Aktuelle Lernfelder:
 - Backend-Technologien
 - Moderne Entwicklungsprozesse
 ---
-
-## 🛠️ Technologien & Tools
+## 🚀 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
   <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
   <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+</div>
+
+---
+
+## 🛠️ Tools & Workflow
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
 </div>
 
 ---
@@ -58,7 +62,7 @@ Aktuelle Lernfelder:
 
 ## 🤝 Kontakt
 
-📍 Münster  
-💻 Wirtschaftsinformatiker (B.Sc.)
-📧 kadirkahraman.it@gmail.com
-🚀 Immer offen für neue Projekte und Herausforderungen
+📍 Münster    
+💻 Wirtschaftsinformatiker (B.Sc.)   
+📧 **E-Mail:** `kadirkahraman.it@gmail.com`        
+🚀 Immer offen für neue Projekte und Herausforderungen   
