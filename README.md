@@ -1,20 +1,21 @@
 # 👋 Hallo, ich bin Kadir Kahraman
 
-## 🚀 Über mich
+## 🧑‍💻 Über mich
 
 Ich programmiere gerne und arbeite kontinuierlich daran, meine Fähigkeiten weiterzuentwickeln.  
 Mein Ziel ist es, **jeden Monat mehrere Projekte umzusetzen**, um neue Technologien auszuprobieren, praktische Erfahrung zu sammeln und mich fachlich weiterzuentwickeln.
 
-Aktuelle Lernfelder:
+📚 Aktuelle Lernfelder:
 - Softwareentwicklung
 - Webentwicklung
 - Clean Code & Projektstrukturierung
+- Fehleranalyse & Debugging
 - Responsive Design
 - Backend-Technologien
 - Moderne Entwicklungsprozesse
 
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
