@@ -1,9 +1,4 @@
 # 👋 Hallo, ich bin Kadir Kahraman
- 
-💻 Leidenschaftlicher Entwickler  
-📍 Münster, Deutschland  
-
----
 
 ## 🚀 Über mich
 
@@ -17,7 +12,8 @@ Aktuelle Lernfelder:
 - Responsive Design
 - Backend-Technologien
 - Moderne Entwicklungsprozesse
----
+
+
 ## 🚀 Tech Stack
 
 <div align="left">
@@ -32,7 +28,6 @@ Aktuelle Lernfelder:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
 </div>
 
----
 
 ## 🛠️ Tools & Workflow
 
@@ -48,7 +43,6 @@ Aktuelle Lernfelder:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
 </div>
 
----
 
 ## 🎯 Ziele
 
@@ -58,11 +52,8 @@ Aktuelle Lernfelder:
 ✅ Kontinuierlich besser werden  
 ✅ Moderne Technologien lernen  
 
----
 
 ## 🤝 Kontakt
 
-📍 Münster    
-💻 Wirtschaftsinformatiker (B.Sc.)   
-📧 **E-Mail:** `kadirkahraman.it@gmail.com`        
-🚀 Immer offen für neue Projekte und Herausforderungen   
+📍 Münster, Deutschland         
+📧 **E-Mail:** `kadirkahraman.it@gmail.com`          
