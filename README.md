@@ -5,14 +5,18 @@
 Ich programmiere gerne und arbeite kontinuierlich daran, meine Fähigkeiten weiterzuentwickeln.  
 Mein Ziel ist es, **jeden Monat mehrere Projekte umzusetzen**, um neue Technologien auszuprobieren, praktische Erfahrung zu sammeln und mich fachlich weiterzuentwickeln.
 
-📚 Aktuelle Lernfelder:
-- Softwareentwicklung
-- Webentwicklung
-- Clean Code & Projektstrukturierung
-- Fehleranalyse & Debugging
-- Responsive Design
-- Backend-Technologien
-- Moderne Entwicklungsprozesse
+## 📚 Aktuelle Lernfelder
+
+- 🎨 Frontend-Entwicklung (HTML, CSS, JavaScript, TypeScript)
+- ⚙️ Backend-Entwicklung (APIs, Server-Anwendungen, Datenverarbeitung)
+- 🤖 KI, Automatisierung & moderne Softwarelösungen
+- 💻 Programmiersprachen & Technologien (JavaScript, TypeScript, Python, R, Rust)
+- 🏗️ Clean Code, Softwarearchitektur & Projektstrukturierung
+- 🐞 Fehleranalyse, Debugging & Qualitätssicherung
+- 🔄 Moderne Entwicklungsprozesse & Versionsverwaltung
+- 🔐 IT-Sicherheit, DevSecOps & sichere Softwareentwicklung
+- 📱 Responsive Design & plattformübergreifende Anwendungen
+- 🚀 Kontinuierliche Weiterbildung durch eigene Projekte und praktische Umsetzung
 
 
 ## 💻 Tech Stack
