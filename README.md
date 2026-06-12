@@ -14,8 +14,6 @@ Mein Ziel ist es, **jeden Monat mehrere Projekte umzusetzen**, um neue Technolog
 - 🏗️ Clean Code, Softwarearchitektur & Projektstrukturierung
 - 🐞 Fehleranalyse, Debugging & Qualitätssicherung
 - 🔄 Moderne Entwicklungsprozesse & Versionsverwaltung
-- 🔐 IT-Sicherheit, DevSecOps & sichere Softwareentwicklung
-- 📱 Responsive Design & plattformübergreifende Anwendungen
 - 🚀 Kontinuierliche Weiterbildung durch eigene Projekte und praktische Umsetzung
 
 
@@ -54,13 +52,25 @@ Mein Ziel ist es, **jeden Monat mehrere Projekte umzusetzen**, um neue Technolog
 </div>
 
 
-## 🎯 Ziele
+## 🎯 Projektziele
 
-✅ Regelmäßig neue Projekte entwickeln  
-✅ Praktische Erfahrung sammeln  
-✅ Eigene Ideen umsetzen  
-✅ Kontinuierlich besser werden  
-✅ Moderne Technologien lernen  
+- Entwicklung praxisnaher Programmierlösungen
+- Vertiefung von JavaScript- und Webentwicklungskenntnissen
+- Anwendung erlernter Konzepte in realen Coding-Challenges
+- Verbesserung von Problemlösungsstrategien und Algorithmen
+- Aufbau eines strukturierten und nachvollziehbaren Code-Portfolios
+
+
+## 💼 Berufliche Ziele
+
+- Einstieg als Frontend- bzw. Full-Stack-Entwickler
+- Kontinuierliche Weiterentwicklung meiner Programmier- und Softwareentwicklungskenntnisse
+- Arbeit mit modernen Technologien, Frameworks und Entwicklungsstandards
+- Entwicklung wartbarer, performanter und benutzerfreundlicher Anwendungen
+- Mitarbeit an professionellen Softwareprojekten im Team
+- Ausbau meiner Kenntnisse in Softwarearchitektur, Testing und Clean Code
+- Aufbau eines aussagekräftigen Portfolios mit praxisnahen Projekten
+- Lebenslanges Lernen und kontinuierliche fachliche Weiterentwicklung
 
 
 ## 🤝 Kontakt
