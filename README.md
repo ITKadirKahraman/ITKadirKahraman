@@ -26,7 +26,8 @@ Zurzeit beschäftige ich mich intensiv mit folgenden Themen:
 - ⚙️ Backend-Entwicklung und REST-APIs
 - 🤖 Künstliche Intelligenz & Automatisierung
 - 🏗️ Clean Code und Softwarearchitektur
-- 🧪 Debugging, Testing und Codequalität
+- 🧪 Unit Testing und Qualitätssicherung
+- 🔍 Debugging und Fehleranalyse
 - 🔄 Git, GitHub und moderne Entwicklungsprozesse
 - 📚 Kontinuierliche Weiterbildung durch praxisnahe Projekte
 
