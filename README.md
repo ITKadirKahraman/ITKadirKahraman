@@ -1,6 +1,5 @@
 # 👋 Hallo, ich bin Kadir Kahraman
-
-**Angehender Frontend- & Full-Stack-Entwickler**  
+ 
 Ich entwickle moderne Webanwendungen, arbeite an praxisnahen Softwareprojekten und erweitere kontinuierlich meine Kenntnisse durch eigene Projekte und neue Technologien.
 
 ---
