@@ -1,4 +1,4 @@
-# 👋 Hallo, ich bin Kadir Kahraman
+# Hallo, ich bin Kadir Kahraman
  
 Ich entwickle moderne Webanwendungen, arbeite an praxisnahen Softwareprojekten und erweitere kontinuierlich meine Kenntnisse durch eigene Projekte und neue Technologien.
 
@@ -271,8 +271,7 @@ Mein Ziel ist es,
 - neue Technologien praktisch einzusetzen,
 - professionelle Entwicklungsstandards anzuwenden,
 - sauberen und wartbaren Code zu schreiben,
-- ein aussagekräftiges Portfolio aufzubauen und
-- langfristig als Frontend- bzw. Full-Stack-Entwickler tätig zu sein.
+- ein aussagekräftiges Portfolio aufzubauen.
 
 ---
 
