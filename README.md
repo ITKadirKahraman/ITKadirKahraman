@@ -259,8 +259,79 @@ Responsive Landingpage für ein japanisches Restaurant.
 > [!TIP]
 > Alle Projekte werden kontinuierlich weiterentwickelt. Neue Technologien, Optimierungen und weitere Anwendungen ergänzen mein Portfolio regelmäßig.
 
+---
+
+# 📚 Projektübersicht
+
+| Projekt | Kategorie | Schwerpunkt |
+|---|---|---|
+| 💼 Business Card | Frontend | Responsive Webdesign |
+| 👨‍💻 Portfolio | Frontend | Portfolio & Präsentation |
+| 📝 Note | Webanwendung | Local Storage & CRUD |
+| 🍎 FruityVice | Webanwendung | REST-API & Fetch |
+| 🧠 Thinkly | Webanwendung | Dynamische Inhalte |
+| 🌤️ Weather App | Webanwendung | API & Wetterdaten |
+| 🛒 BestellApp | Webanwendung | Warenkorb & Interaktion |
+| 📚 BookStore | Webanwendung | Objekte, Kommentare & Local Storage |
+| 🔥 Firebase | Webanwendung | Firebase |
+| 📄 JSONPlaceholder | Webanwendung | REST-API |
+| 🍽️ Bodrum Grill | Website | Responsive Unternehmenswebsite |
+| 📸 Fotogram | Frontend | Galerie & Lightbox |
+| ⚡ Pokémon Pokédex | Webanwendung | API & dynamisches Rendering |
+| ❓ Quiz App | Webanwendung | Quiz & Auswertung |
+| 🧮 Taschenrechner | Webanwendung | JavaScript & Logik |
+| 🍜 Sakura Ramen | Frontend | Responsive Landingpage |
 
 ---
+
+
+# 🚀 Nächste Schritte
+
+In Zukunft möchte ich meine Kenntnisse insbesondere in folgenden Bereichen weiter vertiefen:
+
+- 🔷 **TypeScript**
+- 🟢 **Node.js**
+- 🔌 **REST-API-Entwicklung**
+- 🗄️ **Datenbanken**
+- 🔐 **Authentifizierung**
+- 🧪 **Automatisierte Tests**
+- 🏗️ **Softwarearchitektur**
+- ⚛️ **Moderne Frontend-Frameworks**
+- 🤖 **KI & Automatisierung**
+- ☁️ **Deployment und Cloud-Technologien**
+
+Mein Ziel ist es, mich Schritt für Schritt von kleineren Lernprojekten hin zu größeren und professionell strukturierten Anwendungen weiterzuentwickeln.
+
+> [!TIP]
+> Dabei möchte ich nicht nur neue Technologien kennenlernen, sondern sie auch in eigenen Projekten praktisch einsetzen und miteinander verbinden.
+
+---
+
+# ⭐ Portfolio-Philosophie
+
+## 💡 Lernen durch Machen
+
+Jedes Projekt in diesem Portfolio hat einen bestimmten Zweck.
+
+Manche Projekte dienen dazu, Grundlagen zu festigen. Andere beschäftigen sich mit APIs, Datenverarbeitung, Testing oder moderner Webentwicklung.
+
+Dabei geht es nicht darum, jedes Projekt von Anfang an perfekt zu machen.
+
+Viel wichtiger ist für mich:
+
+- 🧠 aus Fehlern zu lernen
+- 🔍 Probleme selbstständig zu analysieren und zu lösen
+- 🚀 neue Technologien auszuprobieren
+- 🛠️ bestehenden Code kontinuierlich zu verbessern
+- 🧪 Code zu testen und Fehler frühzeitig zu erkennen
+- 📚 mein Wissen durch praktische Projekte zu erweitern
+- 📈 meine Entwicklung als Softwareentwickler sichtbar zu dokumentieren
+
+> [!IMPORTANT]
+> Jedes Projekt ist ein Teil meines Entwicklungsprozesses. Fehler und Herausforderungen gehören für mich zum Lernen dazu und helfen mir dabei, meine Fähigkeiten kontinuierlich weiterzuentwickeln.
+
+---
+
 
 # 🎯 Meine Ziele
 
