@@ -1,10 +1,4 @@
-# Hallo, ich bin Kadir Kahraman
- 
-Ich entwickle moderne Webanwendungen, arbeite an praxisnahen Softwareprojekten und erweitere kontinuierlich meine Kenntnisse durch eigene Projekte und neue Technologien.
-
----
-
-## 👨‍💻 Über mich
+# 👨‍💻 Über mich
 
 Willkommen auf meinem GitHub-Profil!
 
