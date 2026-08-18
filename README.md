@@ -75,53 +75,6 @@ Dazu gehören unter anderem:
 
 ---
 
-# 📊 Portfolio auf einen Blick
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🚀 Projekte
-**10+**
-
-Praxisnahe Projekte
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐 Live-Demos
-**10**
-
-Direkt im Browser testbar
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧪 Unit Tests
-**3+**
-
-Erste getestete Projekte
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻 Technologien
-**HTML • CSS • JavaScript • TypeScript • Python • R • Rust**
-
-Kontinuierlich erweitert
-
-</td>
-</tr>
-</table>
-
-> [!IMPORTANT]
-> Alle Projekte wurden eigenständig entwickelt und dienen dazu, meine Kenntnisse in moderner Webentwicklung, Softwarearchitektur und Clean Code kontinuierlich auszubauen.
-
----
-
 # 📈 Entwicklungsschwerpunkte
 
 - 🌐 **10+** veröffentlichte Projekte
@@ -134,30 +87,6 @@ Kontinuierlich erweitert
 
 > [!TIP]
 > Mein Portfolio wächst kontinuierlich. Neue Projekte entstehen regelmäßig, um moderne Technologien praktisch einzusetzen und meine Kenntnisse weiter auszubauen.
-
----
-
-# 📚 Projektübersicht
-
-| Projekt | Kategorie | Schwerpunkt |
-|---|---|---|
-| 💼 Business Card | Frontend | Responsive Webdesign |
-| 👨‍💻 Portfolio | Frontend | Portfolio & Präsentation |
-| 📝 Note | Webanwendung | Local Storage & CRUD |
-| 🍎 FruityVice | Webanwendung | REST-API & Fetch |
-| 🧠 Thinkly | Webanwendung | Dynamische Inhalte |
-| 🌤️ Weather App | Webanwendung | API & Wetterdaten |
-| 🛒 BestellApp | Webanwendung | Warenkorb & Interaktion |
-| 📚 BookStore | Webanwendung | Objekte, Kommentare & Local Storage |
-| 🔥 Firebase | Webanwendung | Firebase |
-| 📄 JSONPlaceholder | Webanwendung | REST-API |
-| 🍽️ Bodrum Grill | Website | Responsive Unternehmenswebsite |
-| 📸 Fotogram | Frontend | Galerie & Lightbox |
-| ⚡ Pokémon Pokédex | Webanwendung | API & dynamisches Rendering |
-| ❓ Quiz App | Webanwendung | Quiz & Auswertung |
-| 🧮 Taschenrechner | Webanwendung | JavaScript & Logik |
-| 🍜 Sakura Ramen | Frontend | Responsive Landingpage |
-
 
 ---
 
@@ -216,19 +145,6 @@ Viel wichtiger ist für mich:
 
 ---
 
-
-# 🎯 Meine Ziele
-
-Mein Ziel ist es,
-
-- moderne Softwarelösungen zu entwickeln,
-- meine Kenntnisse kontinuierlich auszubauen,
-- neue Technologien praktisch einzusetzen,
-- professionelle Entwicklungsstandards anzuwenden,
-- sauberen und wartbaren Code zu schreiben,
-- ein aussagekräftiges Portfolio aufzubauen.
-
----
 
 # 🤝 Kontakt
 
