@@ -120,8 +120,6 @@ Mein Ziel ist es, mich Schritt für Schritt von kleineren Lernprojekten hin zu g
 
 ---
 
-# ⭐ Portfolio-Philosophie
-
 ## 💡 Lernen durch Machen
 
 Jedes Projekt in diesem Portfolio hat einen bestimmten Zweck.
