@@ -57,24 +57,6 @@ Zurzeit beschäftige ich mich intensiv mit folgenden Themen:
 
 ---
 
-# 📂 Meine Projekte
-
-Auf meinem GitHub-Profil findest du Projekte aus verschiedenen Bereichen der Softwareentwicklung.
-
-Dazu gehören unter anderem:
-
-- 🌐 Responsive Webseiten
-- ⚙️ Backend-Anwendungen
-- 🔗 REST-APIs
-- 🤖 KI- und Automatisierungsprojekte
-- 🛠️ Tools und kleine Hilfsprogramme
-- 📚 Lernprojekte und Coding-Challenges
-
-> [!NOTE]
-> Mein Portfolio wächst kontinuierlich. Neue Projekte und Verbesserungen werden regelmäßig veröffentlicht.
-
----
-
 # 📈 Entwicklungsschwerpunkte
 
 - 🌐 **10+** veröffentlichte Projekte
@@ -95,28 +77,6 @@ Dazu gehören unter anderem:
 Hier findest du eine Auswahl meiner Projekte. Jedes Projekt enthält eine Live-Demo sowie den vollständigen Quellcode auf GitHub.
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ITKadirKahraman/liveDemos)
-
----
-
-# 🚀 Nächste Schritte
-
-In Zukunft möchte ich meine Kenntnisse insbesondere in folgenden Bereichen weiter vertiefen:
-
-- 🔷 **TypeScript**
-- 🟢 **Node.js**
-- 🔌 **REST-API-Entwicklung**
-- 🗄️ **Datenbanken**
-- 🔐 **Authentifizierung**
-- 🧪 **Automatisierte Tests**
-- 🏗️ **Softwarearchitektur**
-- ⚛️ **Moderne Frontend-Frameworks**
-- 🤖 **KI & Automatisierung**
-- ☁️ **Deployment und Cloud-Technologien**
-
-Mein Ziel ist es, mich Schritt für Schritt von kleineren Lernprojekten hin zu größeren und professionell strukturierten Anwendungen weiterzuentwickeln.
-
-> [!TIP]
-> Dabei möchte ich nicht nur neue Technologien kennenlernen, sondern sie auch in eigenen Projekten praktisch einsetzen und miteinander verbinden.
 
 ---
 
