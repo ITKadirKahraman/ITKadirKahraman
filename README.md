@@ -23,10 +23,6 @@ Zurzeit beschäftige ich mich intensiv mit folgenden Themen:
 - 🔍 Debugging und Fehleranalyse
 - 🔄 Git, GitHub und moderne Entwicklungsprozesse
 - 📚 Kontinuierliche Weiterbildung durch praxisnahe Projekte
-
-> [!TIP]
-> Die meisten Projekte enthalten eine ausführliche Dokumentation mit Installationsanleitung, Projektstruktur und weiteren Informationen.
-
 ---
 
 # 💻 Technologien
@@ -40,8 +36,6 @@ Zurzeit beschäftige ich mich intensiv mit folgenden Themen:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
 </p>
-
----
 
 ## 🛠️ Tools & Workflow
 
@@ -57,26 +51,18 @@ Zurzeit beschäftige ich mich intensiv mit folgenden Themen:
 
 ---
 
-# 📈 Entwicklungsschwerpunkte
-
-- 🌐 **10+** veröffentlichte Projekte
-- 🚀 **10** Live-Demos verfügbar
-- 🧪 **Unit Testing** mit dem Node.js Test Runner
-- 🔌 **REST-APIs** und externe Schnittstellen
-- 💾 **Local Storage** & Firebase
-- ⚡ Moderne Webentwicklung mit **JavaScript & TypeScript**
-- 🏗️ Fokus auf **Clean Code**, Softwarearchitektur und wartbare Anwendungen
-
-> [!TIP]
-> Mein Portfolio wächst kontinuierlich. Neue Projekte entstehen regelmäßig, um moderne Technologien praktisch einzusetzen und meine Kenntnisse weiter auszubauen.
-
----
-
 # 🚀 Live-Demos
 
 Hier findest du eine Auswahl meiner Projekte. Jedes Projekt enthält eine Live-Demo sowie den vollständigen Quellcode auf GitHub.
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ITKadirKahraman/liveDemos)
+
+> [!TIP]
+> Die meisten Projekte enthalten eine ausführliche Dokumentation mit Installationsanleitung, Projektstruktur und weiteren Informationen.
+
+> [!WARNING]
+> Einige Projekte befinden sich aktiv in der Entwicklung. Funktionen, Dokumentationen und Projektstrukturen können sich daher jederzeit ändern.
+
 
 ---
 
@@ -106,15 +92,6 @@ Viel wichtiger ist für mich:
 
 # 🤝 Kontakt
 
-📍 Münster, Deutschland
-
-📧 **E-Mail:** `kadirkahraman.it@gmail.com`
-
----
-
-> [!WARNING]
-> Einige Projekte befinden sich aktiv in der Entwicklung. Funktionen, Dokumentationen und Projektstrukturen können sich daher jederzeit ändern.
-
----
-
-⭐ Vielen Dank für deinen Besuch auf meinem GitHub-Profil!
+📍 Münster, Deutschland     
+📧 **E-Mail:** `kadirkahraman.it@gmail.com`  
+⭐ Vielen Dank für deinen Besuch auf meinem GitHub-Profil!   
