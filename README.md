@@ -93,5 +93,4 @@ Viel wichtiger ist für mich:
 # 🤝 Kontakt
 
 📍 Münster, Deutschland     
-📧 **E-Mail:** `kadirkahraman.it@gmail.com`  
-⭐ Vielen Dank für deinen Besuch auf meinem GitHub-Profil!   
+📧 **E-Mail:** `kadirkahraman.it@gmail.com`    
