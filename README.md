@@ -9,22 +9,6 @@ Auf diesem Profil dokumentiere ich meinen Fortschritt als Entwickler und veröff
 > [!IMPORTANT]
 > Dieses GitHub-Profil dient als persönliches Portfolio. Alle Projekte spiegeln meinen aktuellen Wissensstand wider und werden kontinuierlich weiterentwickelt und verbessert.
 
----
-
-# 🚀 Aktuelle Schwerpunkte
-
-Zurzeit beschäftige ich mich intensiv mit folgenden Themen:
-
-- 🌐 Moderne Frontend-Entwicklung
-- ⚙️ Backend-Entwicklung und REST-APIs
-- 🤖 Künstliche Intelligenz & Automatisierung
-- 🏗️ Clean Code und Softwarearchitektur
-- 🧪 Unit Testing und Qualitätssicherung
-- 🔍 Debugging und Fehleranalyse
-- 🔄 Git, GitHub und moderne Entwicklungsprozesse
-- 📚 Kontinuierliche Weiterbildung durch praxisnahe Projekte
----
-
 # 💻 Technologien
 
 ## 💻 Tech Stack
@@ -51,19 +35,18 @@ Zurzeit beschäftige ich mich intensiv mit folgenden Themen:
 
 ---
 
-# 🚀 Live-Demos
+# 🚀 Aktuelle Schwerpunkte
 
-Hier findest du eine Auswahl meiner Projekte. Jedes Projekt enthält eine Live-Demo sowie den vollständigen Quellcode auf GitHub.
+Zurzeit beschäftige ich mich intensiv mit folgenden Themen:
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ITKadirKahraman/liveDemos)
-
-> [!TIP]
-> Die meisten Projekte enthalten eine ausführliche Dokumentation mit Installationsanleitung, Projektstruktur und weiteren Informationen.
-
-> [!WARNING]
-> Einige Projekte befinden sich aktiv in der Entwicklung. Funktionen, Dokumentationen und Projektstrukturen können sich daher jederzeit ändern.
-
-
+- 🌐 Moderne Frontend-Entwicklung
+- ⚙️ Backend-Entwicklung und REST-APIs
+- 🤖 Künstliche Intelligenz & Automatisierung
+- 🏗️ Clean Code und Softwarearchitektur
+- 🧪 Unit Testing und Qualitätssicherung
+- 🔍 Debugging und Fehleranalyse
+- 🔄 Git, GitHub und moderne Entwicklungsprozesse
+- 📚 Kontinuierliche Weiterbildung durch praxisnahe Projekte
 ---
 
 ## 💡 Lernen durch Machen
@@ -89,8 +72,22 @@ Viel wichtiger ist für mich:
 
 ---
 
+# 🚀 Live-Demos
+
+Hier findest du eine Auswahl meiner Projekte. Jedes Projekt enthält eine Live-Demo sowie den vollständigen Quellcode auf GitHub.
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ITKadirKahraman/liveDemos)
+
+> [!TIP]
+> Die meisten Projekte enthalten eine ausführliche Dokumentation mit Installationsanleitung, Projektstruktur und weiteren Informationen.
+
+> [!WARNING]
+> Einige Projekte befinden sich aktiv in der Entwicklung. Funktionen, Dokumentationen und Projektstrukturen können sich daher jederzeit ändern.
+
+
+---
 
 # 🤝 Kontakt
 
 📍 Münster, Deutschland     
-📧 **E-Mail:** `kadirkahraman.it@gmail.com`    
+📧 **E-Mail:** `kadirkahraman.it@gmail.com` 
