@@ -6,6 +6,9 @@ Softwareentwicklung bedeutet für mich mehr als nur das Schreiben von Code. Ich 
 
 Auf diesem Profil dokumentiere ich meinen Fortschritt als Entwickler und veröffentliche Projekte, mit denen ich neue Technologien ausprobiere, bestehendes Wissen vertiefe und praktische Erfahrungen sammle.
 
+📍 Münster, Deutschland     
+📧 **E-Mail:** `kadirkahraman.it@gmail.com` 
+
 > [!IMPORTANT]
 > Dieses GitHub-Profil dient als persönliches Portfolio. Alle Projekte spiegeln meinen aktuellen Wissensstand wider und werden kontinuierlich weiterentwickelt und verbessert.
 
@@ -83,11 +86,3 @@ Hier findest du eine Auswahl meiner Projekte. Jedes Projekt enthält eine Live-D
 
 > [!WARNING]
 > Einige Projekte befinden sich aktiv in der Entwicklung. Funktionen, Dokumentationen und Projektstrukturen können sich daher jederzeit ändern.
-
-
----
-
-# 🤝 Kontakt
-
-📍 Münster, Deutschland     
-📧 **E-Mail:** `kadirkahraman.it@gmail.com` 
